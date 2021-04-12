@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # *Num - Alpha* 
-
-# In[8]:
-
 
 num=["","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"]
 tens=["Ten","Eleven","Tweleve","Thirteen","Fourteen","Fifteen","Sixteen","Seventeen","Eighteen","Nineteen"]
